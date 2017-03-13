@@ -6,7 +6,7 @@ import socketserver #servidor enchufe
 #WEB server
 #
 
-PORT=8000
+PORT=8001
 
 #Handler = http.server.SimpleHTTPRequestHandler #es directamente una referencia a la clase
 Handler = web.testHTTPRequestHandler
